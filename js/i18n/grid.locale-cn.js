@@ -42,12 +42,12 @@ var locInfo = {
 		emptyrecords: "无数据显示",
 		loadtext: "读取中...",
 		pgtext: " {0} 共 {1} 页",
-		pgfirst: "First Page",
-		pglast: "Last Page",
-		pgnext: "Next Page",
-		pgprev: "Previous Page",
-		pgrecs: "Records per Page",
-		showhide: "Toggle Expand Collapse Grid",
+		pgfirst: "首页",
+		pglast: "最后一页",
+		pgnext: "下一页",
+		pgprev: "上一页",
+		pgrecs: "每页行数",
+		showhide: "切换",
 		savetext: "正在保存..."
 	},
 	search: {
@@ -76,12 +76,12 @@ var locInfo = {
 			{ op: "AND", text: "所有" },
 			{ op: "OR",  text: "任一" }
 		],
-		addGroupTitle: "Add subgroup",
-		deleteGroupTitle: "Delete group",
-		addRuleTitle: "Add rule",
-		deleteRuleTitle: "Delete rule",
-		operandTitle: "Click to select search operation.",
-		resetTitle: "Reset Search Value"
+		addGroupTitle: "添加子分组",
+		deleteGroupTitle: "删除分组",
+		addRuleTitle: "添加规则",
+		deleteRuleTitle: "删除规则",
+		operandTitle: "点击选择查询操作.",
+		resetTitle: "重置查询"
 	},
 	edit: {
 		addCaption: "添加记录",
@@ -134,9 +134,9 @@ var locInfo = {
 		viewtext: "",
 		viewtitle: "查看所选记录",
 		savetext: "",
-		savetitle: "Save row",
+		savetitle: "保存行数据",
 		canceltext: "",
-		canceltitle: "Cancel row editing"
+		canceltitle: "取消行编辑"
 	},
 	col: {
 		caption: "选择列",
